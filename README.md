@@ -29,7 +29,7 @@ Then, clone the repository onto your local computer.
 
 ## Usage Guide
 
-For Mac user, open the terminal and use the following commands to run the program.
+For Mac user, open the terminal (Git Bash for Windows users) and use the following commands to run the program.
 
 ```python
 cd [your file directory]
