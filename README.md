@@ -23,6 +23,21 @@ import hvplot.pandas
 import sqlalchemy
 ```
 
+Then, clone the repository onto your local computer.
+
+---
+
+## Usage Guide
+
+For Mac user, open the terminal and use the following commands to run the program.
+
+```python
+cd [your file directory]
+conda activate dev
+voila etf_analyzer.ipynb
+```
+The program will then display on your web browser.
+
 ---
 
 ## Contributors
