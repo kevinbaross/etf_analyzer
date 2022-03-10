@@ -36,7 +36,9 @@ cd [your file directory]
 conda activate dev
 voila etf_analyzer.ipynb
 ```
-The program will then display on your web browser.
+The program will then display on your web browser as follows:
+
+![](ScreenShot_Voila.png)
 
 ---
 
